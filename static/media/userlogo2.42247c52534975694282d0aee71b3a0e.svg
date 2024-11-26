@@ -1,0 +1,13 @@
+<svg width="46" height="46" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon_person">
+<circle id="Ellipse 7" cx="23" cy="23" r="23" fill="url(#paint0_linear_190_645)"/>
+<path id="Intersect" fill-rule="evenodd" clip-rule="evenodd" d="M6.63428 35.2564C8.44858 29.6277 13.7296 25.5555 19.9618 25.5555H26.0359C32.2682 25.5555 37.5493 29.6279 39.3635 35.2567C35.6341 40.2281 29.6922 43.4444 22.999 43.4444C16.3057 43.4444 10.3637 40.228 6.63428 35.2564Z" fill="white"/>
+<circle id="Ellipse 9" cx="22.9997" cy="16.1852" r="7.66667" fill="white"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_190_645" x1="23" y1="0" x2="23" y2="46" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B95EFF"/>
+<stop offset="1" stop-color="#3280FF"/>
+</linearGradient>
+</defs>
+</svg>
