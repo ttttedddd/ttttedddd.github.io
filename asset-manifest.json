@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9b21021d.css",
-    "main.js": "/static/js/main.b30217fd.js",
+    "main.js": "/static/js/main.28acc259.js",
     "static/js/787.6e07f61c.chunk.js": "/static/js/787.6e07f61c.chunk.js",
     "static/media/NotoSansKR-Bold.woff": "/static/media/NotoSansKR-Bold.2736254c670de31ad97c.woff",
     "static/media/NotoSansKR-ExtraBold.woff": "/static/media/NotoSansKR-ExtraBold.7be41a88980e46cf7c79.woff",
@@ -14,10 +14,20 @@
     "static/media/NotoSansKR-Thin.woff": "/static/media/NotoSansKR-Thin.91a1f0fafbdf852305e5.woff",
     "static/media/TmoneyRoundWindExtraBold.woff": "/static/media/TmoneyRoundWindExtraBold.10eebf7520f85d23c350.woff",
     "static/media/TmoneyRoundWindRegular.woff": "/static/media/TmoneyRoundWindRegular.b9c0fef80eb56a6c9905.woff",
+    "static/media/m_info_6.png": "/static/media/m_info_6.4782d564d4eac99ca1c1.png",
+    "static/media/m_info_9.png": "/static/media/m_info_9.4d9520b9cbd0a3eb0e18.png",
     "static/media/product_title.png": "/static/media/product_title.37250f7fd5bb964dd230.png",
+    "static/media/m_info_2.png": "/static/media/m_info_2.04c45f9fc8397ecedff9.png",
+    "static/media/m_info_3.png": "/static/media/m_info_3.78b43119a7a9f1f739ef.png",
     "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.fdfaf61524fcecfcedf3.woff",
+    "static/media/m_info_7.png": "/static/media/m_info_7.b821ad1eea30084bbf17.png",
+    "static/media/m_info_1.png": "/static/media/m_info_1.7d5fa4da500792d5a958.png",
+    "static/media/m_info_5.png": "/static/media/m_info_5.513ffffe5f73ef620ebc.png",
+    "static/media/m_info_0.png": "/static/media/m_info_0.b37187d81ac462732f00.png",
     "static/media/poli_logo.png": "/static/media/poli_logo.7e36620703dcf7d0cdb6.png",
     "static/media/product_polieng.png": "/static/media/product_polieng.c8196d9dc00bd5cfaa3a.png",
+    "static/media/m_info_8.png": "/static/media/m_info_8.383aca6547562a96418f.png",
+    "static/media/m_info_4.png": "/static/media/m_info_4.e02e900e193ee30f6cf8.png",
     "static/media/product_polikor.png": "/static/media/product_polikor.10a928b209dd48ea194d.png",
     "static/media/product_school.png": "/static/media/product_school.984fae80d211fe3b0c48.png",
     "static/media/company_gameimg.png": "/static/media/company_gameimg.1b35d2f44286f6d751a6.png",
@@ -103,11 +113,11 @@
     "static/media/checkoff.svg": "/static/media/checkoff.be913799697dce179154.svg",
     "static/media/whitecircle.svg": "/static/media/whitecircle.29786713d618ea5112fd1aa5bbbb7aee.svg",
     "main.9b21021d.css.map": "/static/css/main.9b21021d.css.map",
-    "main.b30217fd.js.map": "/static/js/main.b30217fd.js.map",
+    "main.28acc259.js.map": "/static/js/main.28acc259.js.map",
     "787.6e07f61c.chunk.js.map": "/static/js/787.6e07f61c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b21021d.css",
-    "static/js/main.b30217fd.js"
+    "static/js/main.28acc259.js"
   ]
 }
